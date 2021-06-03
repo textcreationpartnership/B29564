@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Seamans protestation renewed, confirmed and enlarged the first concerning their ebbing and flowing to and from the Parliament House at Westminster the 11th of Ianuary 1642 : the latter as the cause and matters now stand.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29564</idno><idno type="EEBO-CITATION">12180338</idno>
+  <idno type="VID">197234</idno>
+  <idno type="EEBO-PROQUEST">2240948181</idno>
+  
+            <idno type="STC">Wing S2193</idno>
+            <idno type="OCLC">12180338</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29564)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197234)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 245:E101, no 5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Seamans protestation renewed, confirmed and enlarged the first concerning their ebbing and flowing to and from the Parliament House at Westminster the 11th of Ianuary 1642 : the latter as the cause and matters now stand.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. H.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sailors --  England.</term>
+               <term type="geographic_name">London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197234:1"/>
+            <p>THE SEA-MANS PROTESTATION Renewed, Confirmed, and Enlarged.</p>
+            <p>THE FIRST, Concerning their Ebbing and Flowing to and from the Parliament House at Westmin<g ref="char:EOLhyphen"/>ster, the 11th of Ianuary 1642.</p>
+            <p>THE LATTER, As the Cause and Matters, now stand.</p>
+            <q>ORdered againe, by the Vice-Admirall, to bee published and set forth thoroughout the whole Kingdome, as a manifestation of the Seamans Loyalty to their King, and love to their Country.</q>
+            <p>LONDON, Printed for H. H. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="protest">
+            <pb facs="tcp:197234:2"/>
+            <pb facs="tcp:197234:2"/>
+            <head>The Seamans Protestation.</head>
+            <argument>
+               <p>OVr appearance above the Bridge, being a passage the Histories of <hi>England</hi> cannot exemplifie, may cause our good intents and well meaning, in the various apprehen<g ref="char:EOLhyphen"/>sions of most men to be misconstrued: For the speedier and more exact remedie of which, we have all resolved at length thus to declare our-selves.</p>
+            </argument>
+            <p>
+               <hi>FIrst,</hi> as in dutie we ought, VVe Protest to our great Lord and Master <hi>(his most Ex<g ref="char:EOLhyphen"/>cellent Maiesty)</hi> That it was an act of our owne free voluntary disposition, not all, or any of us called or invited by the Parliament or Citizens of London, but came as well to protect <hi>White-hall,</hi> had his Majesty beene there, as the Parliament house: but a tumour being spread amongst us that that great Court was in fear to be dissovled, and knowing too well the happines of this Kingdome consists in their Sessions; re<g ref="char:EOLhyphen"/>membring the words of Arch-bishop <hi>Cranmer,</hi> a Martyr of ever blessed memory, which were; VVo be to <hi>England</hi> when there is no Parliament.</p>
+            <p>We seeing and heareing the whole City to be in compleat arms, presently turned freshwater soldiers, and with as sudden expedition as we could, attended by water their progresse thither, and joyned our thunder of powder with the City Muskets, at their entrance into the House (the
+<pb facs="tcp:197234:3"/>Temple of our safety) to the terrour we hope of all Papists, and the Lands Enemies, who wish for nothing more then the dissolation of both houses, Whose harmony (if they pro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eed) will be to our perpetuall good, and their sudden Confusion.</p>
+            <p>We who are alwayes abroad, can best tell no goverment upon the Earth is comparable to it; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>specially, for the keeping of a Crown upon a Kings head, for the procuration of the Subjects Loyalty, and un<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>igned fidelity to their Mo<g ref="char:EOLhyphen"/>narch, for the flourishing of Traffique and Mar<g ref="char:EOLhyphen"/>chandizing (this Kingdoms right-hand) the con<g ref="char:EOLhyphen"/>tinuation of all, which is, was, and necessarily must be by <hi>Parliaments.</hi>
+            </p>
+            <p>Witnesse the heavie and lamentable distracti<g ref="char:EOLhyphen"/>ons in <hi>France, Spain,</hi> and <hi>Germanie</hi> for want of them or the like Goverment.</p>
+            <p>Long therefore may they here flourish: In vain is it for us to keepe the narrow Seas, if some go the way to lose the Land. This confusion is that alone which glads the hearts of our Ene<g ref="char:EOLhyphen"/>mies abroad, and makes them fat with laughter: while we sit and sit, but effect nothing: Yet al<g ref="char:EOLhyphen"/>though the Conception is long, the birth will be the nobler, and that which <hi>Rome</hi> with all her curses shall not blast, we meane, the firm esta<g ref="char:EOLhyphen"/>blishing of our <hi>Protestant Religion:</hi> in defence of which chiefly, we display our Colours on the seas, and expose each drop of bloud we have, to hourly danger; and all in behalfe of our good and most gracious King, who is himselfe the De<g ref="char:EOLhyphen"/>fender of our Faith.</p>
+            <pb facs="tcp:197234:3"/>
+            <p>Now to the City we manifest our selves, and the occasion of our conflux, although we are a sort of people in this Commonwealth, which by the Preciser sort of you, are defined but lit<g ref="char:EOLhyphen"/>tle different from Atheists; and therefore should breede more wonder we should stickle for Reli<g ref="char:EOLhyphen"/>gion Be plea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to unde<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>stand although we have no Churches, we make our prayers as well as you, and the sam<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God you have at shore is ours at sea: whom we wil serve although not so decently as we would, being for the most part of our daies restrained from a Church, to dwell upon the seas for your better security; for be it well knowne to you, y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur safety consists in ours, youre churches yea and your houses too, would quickly fall and lie in the dust, should we let passe <hi>Those</hi> who long to prey upon your lives and Fortunes. But for our Religion, King, and Country, (we do and will advance our Colours against the world: and for a Confermation to you all of our true hearts, we have all Protested in this manner.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>I <hi>A, B, C,</hi>
+                  </opener>
+                  <p>DO Protest before Almighty God, to main<g ref="char:EOLhyphen"/>tain with my dearest life and blood, the <hi>Protestant Religion</hi> as it was established in the dayes of Queen <hi>Elizabeth:</hi> To acknowledge <hi>CHARLES,</hi> by the grace of God, King of <hi>Great Britain, France,</hi> and <hi>Ireland:</hi> To stand, for the Priviledges of <hi>Parliament.</hi> Utterly form my heart to abhor all <hi>Poperie,</hi> and Popish inno<g ref="char:EOLhyphen"/>vations.</p>
+                  <trailer>So help me God.</trailer>
+               </body>
+            </floatingText>
+            <pb facs="tcp:197234:4"/>
+            <p>NOw it may appear to you all, the main and chiefest cause of our gathering together, we who are used to tempests at sea never stood in fear of a greater then this at Land; That great vessell the Parliament house, which is so richly fraught with no lesse value then the price of a King<g ref="char:EOLhyphen"/>dome, is fearfully shaken, and in great danger: <hi>Rome</hi> has Rocks, and <hi>Spaine</hi> hath Quick-sands, to swallow her up; Now what remaines, but that on our knees we send up our prayers to that great Pilot of Heaven and Earth, who steers the world with his Finger, that he would protect and defend her, to his owne glory and our com<g ref="char:EOLhyphen"/>fort: so shall our King be safe and Firm in his Throne, while his Religion flourishes, and his Subjects peacefully and joyfully live smiling under his Scepter, To the Eternall disgrace and shame of those, who have and would intend to subvert our proceedings. Thus much the former Protestation</p>
+            <div type="part">
+               <head>Now followeth the Continuation, confirmation, and augmentation of the same.</head>
+               <p>AS there are aboundance of Land Malig<g ref="char:EOLhyphen"/>nants in and about <hi>London</hi> and elswhere; that is, malevolent or evill minded persons, to the proceeding of the most high and honourable Court of Parliament, which apears by their fre<g ref="char:EOLhyphen"/>quent breathing and fomenting forth false and scandalous words and Languages of and against the Parliament; so we are not ignorant that there a generarion of sea-men or saylors that (not for
+<pb facs="tcp:197234:4"/>want of malice) are Malignants also in their ac<g ref="char:EOLhyphen"/>tions and vapouring discourses; but what are they, for the most part? but debauched persons, drunkards, swearers &amp;c. And <hi>Wapping</hi> as well as <hi>Westminster</hi> is not without the infection of some such men: Yea and divers women as well as men (that not for want of ignorance) are Malignants also and will take upon them <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ft soons to be pra<g ref="char:EOLhyphen"/>ting and prattling against the proceedings of Parl. but best of it is, womens tongues are their best &amp; worst weapons. And to return to sea-men, blessed be God, the major and better sort of us are not like salt that hath lost its savour, but we having learnt to feare God and obey the King, we will <hi>Protest before almightie God, our former reci<g ref="char:EOLhyphen"/>ted protestation:</hi> and now the Kingdom is invol<g ref="char:EOLhyphen"/>ved in a civill War, &amp; a mighty Army of Papists (and Atheists) contrary to the Knowne Lawes of the Land are in Arms against the Parliament, if they could, to destroy the fame, and so trample the Common Laws and the Commons of Eng<g ref="char:EOLhyphen"/>land under foot, and to make us all slaves in our Religion imunities and priviledges, It behoues us that are sea men, to bestir us and looke about us the better, and the rather because we, and who but we, are to manage the <hi>Navy</hi> of Shipps, which are and ever have beene accompted the brazen VValles of this Kingdome, against all Forraine invasion, witnesse our memorable and never to be forgotten defeating the (falfly tearmed) Invin<g ref="char:EOLhyphen"/>cible Armado in 8<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> which was in the blessed, hap<g ref="char:EOLhyphen"/>pie, and haleluyon days and raign of our <hi>Deborah,</hi> the Nurse of our English <hi>Israel,</hi> Queen <hi>Elisabeth</hi>
+                  <pb facs="tcp:197234:5"/>of immortall Memory which victory was to god alone against the potent Monarch <hi>Phillip</hi> the se<g ref="char:EOLhyphen"/>cond King of <hi>Spaine.</hi>
+               </p>
+               <p>And verily it is a pregnant argument to us that sea-men are as ready to doe service as ever, the willing and voluntary resorting of so many of us unto the Nauy now at sea under the comand of the right honourable and most noble <hi>Robert</hi> Earl of <hi>Warwick</hi> Lord Gen. of the Sea forces for the King and Parliament, whom we beseech God pre<g ref="char:EOLhyphen"/>serve and protect for the good of our Faerie land. And for those Arch-Pyrates that have taken upon them to come in opposition to our great Navie, to have and rob his Majesties good Sub<g ref="char:EOLhyphen"/>jects of their shippes and goods, and for that end (as is said) they have taken Falmouth Haven in Cornwall, which with roaving and robberies they make a kind of <hi>Algier.</hi> We hope in due time we shall meete with them, and bring them to their deserved and condigne reward at <hi>Wapping</hi> Dock. In the meane time unanimously joyn with all true hearted Land-men, especially the ho<g ref="char:EOLhyphen"/>norable City of <hi>London,</hi> to pray for the hapy pro<g ref="char:EOLhyphen"/>ceedings of the A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mies as well by land as sea that are in Armes for King and Parliame<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, against all our Enemyes as well domestike as fortain, and for our parts, let them nor theirs prosper, that will not say to the same with us, <hi>AMEN.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
